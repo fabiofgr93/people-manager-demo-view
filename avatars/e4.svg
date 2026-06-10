@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 320'>
+<defs>
+  <filter id='shadow'><feDropShadow dx='0' dy='12' stdDeviation='8' flood-color='#000' flood-opacity='.42'/></filter>
+  <linearGradient id='skin' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f2c092'/><stop offset='1' stop-color='#7c3f2c'/></linearGradient>
+</defs>
+<g filter='url(#shadow)'>
+<path d='M38 320 C55 250 83 216 128 216 C173 216 201 250 218 320Z' fill='#f7f7f5'/>
+<path d='M75 238 C100 260 156 260 181 238 L204 320 L52 320Z' fill='#0d734e' opacity='.34'/>
+<path d='M111 188 L145 188 L151 218 C137 229 119 229 105 218Z' fill='#f2c092' opacity='.92'/>
+<path d='M74 116 C73 56 106 26 141 34 C184 44 190 91 184 146 C176 111 163 83 128 82 C98 81 84 101 74 116Z' fill='#3b2016'/>
+<path d='M80 127 C64 178 74 228 112 236 L144 236 C184 218 192 178 176 127 C161 153 96 153 80 127Z' fill='#3b2016' opacity='.92'/>
+<ellipse cx='128' cy='133' rx='45' ry='58' fill='url(#skin)'/>
+<path d='M82 118 C93 92 112 79 128 79 C145 79 164 92 176 118 C161 104 95 104 82 118Z' fill='#3b2016' opacity='.96'/>
+<ellipse cx='109' cy='132' rx='5' ry='7' fill='#251714'/>
+<ellipse cx='147' cy='132' rx='5' ry='7' fill='#251714'/>
+<path d='M126 134 C121 148 123 154 134 156' stroke='#7d4638' stroke-width='3.4' fill='none' stroke-linecap='round' opacity='.60'/>
+<path d='M106 166 C119 176 138 176 151 166' stroke='#6e332c' stroke-width='4' fill='none' stroke-linecap='round' opacity='.78'/>
+
+<path d='M93 118 C106 111 119 111 127 116' stroke='#1a100c' stroke-opacity='.16' stroke-width='4' fill='none' stroke-linecap='round'/>
+<path d='M130 116 C141 111 156 112 165 120' stroke='#1a100c' stroke-opacity='.16' stroke-width='4' fill='none' stroke-linecap='round'/>
+</g>
+</svg>
